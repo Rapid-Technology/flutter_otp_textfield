@@ -1,4 +1,4 @@
-# flutter_otp_textfield
+# Flutter OTP TextField
 
 A new Flutter project.
 
