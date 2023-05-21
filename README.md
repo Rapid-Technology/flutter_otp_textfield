@@ -1,6 +1,6 @@
 # Flutter OTP TextField
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/KMwmQ_Jaz4s/maxresdefault.jpg)](https://www.youtube.com/watch?v=KMwmQ_Jaz4s)
 
 ## Getting Started
 
